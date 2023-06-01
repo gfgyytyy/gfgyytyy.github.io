@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktodo_list=self.webpackChunktodo_list||[]).push([[592],{2475:(m,s,_)=>{_.d(s,{H:()=>l});var n=_(1180),o=_(5439),a=_(2223);let l=(()=>{class t{transform(e,D="YYYY-MM-DD HH:mm:ss"){return e?o(e).format(D):""}}return(0,n.Z)(t,"\u0275fac",function(e){return new(e||t)}),(0,n.Z)(t,"\u0275pipe",a.Yjl({name:"localDate",type:t,pure:!0})),t})()}}]);
